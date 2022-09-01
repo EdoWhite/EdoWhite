@@ -13,9 +13,6 @@ Naturally curious Data Scientist 🧑🏻‍💻<br>Always in Beta mode ⚙️<b
 ![](https://github-readme-streak-stats.herokuapp.com/?user=EdoWhite&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=EdoWhite&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
-
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/https://www.paypal.com/donate/?hosted_button_id=WYV3NDYZDSVC4) 
 
