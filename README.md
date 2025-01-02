@@ -1,7 +1,6 @@
 # 💫 About Me:
-Data Scientist always in Beta mode 🧑🏻‍💻 <br>MSc Data Science 🔭 <br>BSc Computer Science 🖥
-
-My motto is: *"All models are wrong, but some are useful"*. I hope to develop useful ones.
+PhD researcher in Computer Vision for Sports Analytics 🧑🏻‍💻 
+<br>MSc Data Science 🔭 <br>BSc Computer Science 🖥
 
 
 ## 🌐 Socials:
