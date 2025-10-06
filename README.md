@@ -1,20 +1,39 @@
-# 💫 About Me:
-PhD researcher in Computer Vision for Sports Analytics 🧑🏻‍💻 
-<br>MSc Data Science 🔭 <br>BSc Computer Science 🖥
+# 💫 About Me
+PhD Researcher in **Computer Vision** at Free University of Bozen-Bolzano 🎓  
+Specializing in **Multimodal Video Understanding** and **Vision-Language Models** for sports performance analysis 🏀⚽  
 
+🔬 Research Focus: Efficient architectures for action quality assessment, skill evaluation, and AI-driven feedback generation  
+✍️ Technical Writer @ [Towards AI](https://medium.com/@edoardobianchi98) • 20+ articles • 25K+ reads  
+🚀 Building lightweight VLMs with state-of-the-art performance
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/edoardo-bianchi-ds) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@edoardobianchi98) [![Portfolio](https://img.shields.io/badge/website-000000?&logo=About.me&logoColor=white)](https://web.whiteapp.cloud)
+## 🔗 Featured Projects
+- **[SkillFormer](https://edowhite.github.io/SkillFormer/)** – Multi-view action quality assessment (4.5× fewer parameters)
+- **[PATS](https://edowhite.github.io/PATS/)** – Proficiency-aware temporal sampling (+26% performance gains)
+- **ProfVLM** – Lightweight vision-language model for skill assessment (20× fewer parameters)
 
+## 🌐 Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/edoardo-bianchi-ds) 
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@edoardobianchi98) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?&logo=About.me&logoColor=white)](https://web.whiteapp.cloud)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?logo=google-scholar&logoColor=white)](https://scholar.google.com/YOUR_PROFILE)
 
-## 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=plastic&logo=r&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=plastic&logo=bootstrap&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=%white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![Spark](https://img.shields.io/badge/Apache_Spark-FFFFFF?style=plastic&logo=apachespark&logoColor=#E35A16)
+## 💻 Tech Stack
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) 
+![HuggingFace](https://img.shields.io/badge/🤗%20Hugging%20Face-FFD21E?style=flat) 
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) 
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) 
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
+![WandB](https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=flat&logo=WeightsAndBiases&logoColor=white)
+![TensorBoard](https://img.shields.io/badge/TensorBoard-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)
 
+## 📚 Recent Publications
+- **PATS**: Proficiency-Aware Temporal Sampling (IEEE STAR 2025)
+- **SkillFormer**: Unified Multi-View Video Understanding (ICMV 2025)
+- **Gate-Shift-Pose**: Skeleton-Enhanced Action Recognition (WACVW 2025)
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=EdoWhite&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
+## 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=EdoWhite&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=EdoWhite&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=EdoWhite&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-  <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=EdoWhite&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
