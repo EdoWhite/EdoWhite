@@ -9,7 +9,7 @@ Specializing in **Multimodal Video Understanding** and **Vision-Language Models*
 ## 🔗 Featured Projects
 - **[SkillFormer](https://edowhite.github.io/SkillFormer/)** – Multi-view action quality assessment (4.5× fewer parameters)
 - **[PATS](https://edowhite.github.io/PATS/)** – Proficiency-aware temporal sampling (+26% performance gains)
-- **ProfVLM** – Lightweight vision-language model for skill assessment (20× fewer parameters)
+- **[ProfVLM](https://github.com/EdoWhite/ProfVLM)** – Lightweight vision-language model for skill assessment (20× fewer parameters)
 
 ## 🌐 Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/edoardo-bianchi-ds) 
@@ -29,9 +29,9 @@ Specializing in **Multimodal Video Understanding** and **Vision-Language Models*
 ![TensorBoard](https://img.shields.io/badge/TensorBoard-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)
 
 ## 📚 Recent Publications
-- **PATS**: Proficiency-Aware Temporal Sampling (IEEE STAR 2025)
-- **SkillFormer**: Unified Multi-View Video Understanding (ICMV 2025)
-- **Gate-Shift-Pose**: Skeleton-Enhanced Action Recognition (WACVW 2025)
+- PATS: Proficiency-Aware Temporal Sampling for Multi-View Sports Skill Assessment (IEEE STAR 2025)
+- SkillFormer: Unified Multi-View Video Understanding for Proficiency Estimation (ICMV 2025)
+- Gate-Shift-Pose: Enhancing Action Recognition in Sports with Skeleton Information. (WACVW 2025)
 
 ## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=EdoWhite&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
