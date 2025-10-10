@@ -9,7 +9,7 @@ Specializing in **Multimodal Video Understanding** and **Vision-Language Models*
 ## 🔗 Featured Projects
 - **[SkillFormer](https://edowhite.github.io/SkillFormer/)** – Multi-view action quality assessment (4.5× fewer parameters)
 - **[PATS](https://edowhite.github.io/PATS/)** – Proficiency-aware temporal sampling (+26% performance gains)
-- **[ProfVLM](https://github.com/EdoWhite/ProfVLM)** – Lightweight vision-language model for skill assessment (20× fewer parameters)
+- **ProfVLM** – Lightweight vision-language model for skill assessment (20× fewer parameters)
 
 ## 🌐 Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/edoardo-bianchi-ds) 
